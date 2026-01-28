@@ -1,6 +1,6 @@
-📅 Zest
+📅 Kairos
 
-Zest is a goal-setting and execution-focused productivity app built around the principles of The 12 Week Year by Brian P. Moran and Michael Lennington. Instead of following the traditional annual planning model, Zest empowers users to redefine their year in 12-week cycles—maximizing clarity, urgency, and results.
+Kairos is a goal-setting and execution-focused productivity app built around the principles of The 12 Week Year by Brian P. Moran and Michael Lennington. Instead of following the traditional annual planning model, kairos empowers users to redefine their year in 12-week cycles—maximizing clarity, urgency, and results.
 
 🚀 Key Features
 
@@ -23,18 +23,14 @@ Dart – Core programming language
 
 Android Studio – Primary development and debugging environment
 
-📲 Apk File 
-
-https://github.com/harmankaler-coder/zest/releases/download/Pubilsh/app-release-1.apk
-
 📦 Getting Started
 
-To run Zest locally on your machine:
+To run kairos locally on your machine:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/zest.git
-cd zest
+git clone https://github.com/yourusername/kairos.git
+cd kairos
 
 
 2. Install dependencies
@@ -54,4 +50,4 @@ flutter run
 
 📚 About the Methodology
 
-Zest is inspired by the 12 Week Year framework, a time management and performance system that encourages shorter, focused execution cycles. This approach promotes greater accountability, urgency, and goal achievement by treating every 12 weeks as a standalone year.
+Kairos is inspired by the 12 Week Year framework, a time management and performance system that encourages shorter, focused execution cycles. This approach promotes greater accountability, urgency, and goal achievement by treating every 12 weeks as a standalone year.
